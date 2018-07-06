@@ -20,7 +20,7 @@
 
 3.**发起 Pull Request**
 
-开发完成后，[发起 pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+开发完成后，[发起 Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 4.**官方审核通过，合入上线**
 
