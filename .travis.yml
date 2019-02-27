@@ -10,7 +10,7 @@ install:
 script:
   - npm run lint
   - npm run site
-  - percy snapshot ./dist/ --enable_javascript
+  - percy snapshot ./dist/examples/ --enable_javascript
 
 branches:
   only:
